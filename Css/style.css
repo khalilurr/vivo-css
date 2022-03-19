@@ -1,0 +1,322 @@
+/* Global Css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    width: 88%;
+    margin: auto;
+}
+header{
+    background: url(../image/color.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+}
+.main-header{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+
+}
+.logo-part{
+    width: 50%;
+float: left;
+} 
+.menu-part{
+    width: 50%;
+    float: left;
+    text-align: end;
+    padding: 8px;
+    margin: auto;
+
+
+}
+.menu-part ul{
+    
+
+}
+.menu-part li{
+display: inline;
+font-size: 15px;
+margin: 10px;
+
+}
+.menu-part a{
+    text-decoration: none;
+    color: white;
+
+}  
+
+.hero{
+text-align: center;
+}
+.hero h1{
+padding-top: 85px;
+}
+.hero p{
+padding-top: 20px;
+}
+.hero a button{
+margin-top:20px;
+padding: 10px 15px;
+border-radius: 10%;
+}
+.hero img{
+    padding-top: 50px;
+    display: block;
+    width: 200px;
+    margin: auto;
+}
+
+#future{
+    background: url(image/bacground\ bacground.png) no-repeat center center ;
+    background-size: cover;
+    background-color: aqua;
+    padding: 200px 0px 50px;
+    width: 100%;
+    float:left;
+    
+   
+    
+}
+.future-img-part{
+width: 30%;
+float: left;
+}
+.future-box-part{
+        width: 70%;
+        float: right;
+        position: relative;
+        top: -538px;
+        right: -200px;
+        
+        
+}
+.future-box{
+      width: 100%;
+      float: left;
+}
+.future{
+    width: 30%;
+    float: left;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 8px #000;
+    margin: 20px;
+}
+.one{
+    position: relative;
+    top:-45px;
+    right: 45px;
+}
+.two{
+    position: relative;
+
+
+}
+.three{
+
+}
+.four{
+    position: relative;
+    top: 45px;
+    left:45px;
+
+}
+.sec{
+    width: 100%;
+    float: left;
+   
+}
+.para{
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+.para h3{
+    margin: 40px;
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+}
+.para p{
+    text-align: justify;
+}
+.down{
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+    margin: 60px;
+    border-radius: 10%;
+}
+button{
+    font-size: 15px;
+
+}
+.iteam{
+    width: 60%;
+    float: left;
+    padding-left: 20%;
+}
+.last-part{
+    background-image: url(image/art\ bacground.png) ;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+    padding:20px ;
+}
+.right-part{
+    width:50% ;
+    float: left;
+}
+.infoo{
+    width: 50%;
+    float: left;
+}
+.bg{
+    background-image: url(image/color.png) ;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    
+}
+.bg img{
+    margin: 200px;
+}
+.bgg{
+    width: 60%;
+    float: left;
+    padding: 200px;
+}
+.mb-part{
+    width: 40%;
+    float: left;
+    margin: %;
+}
+
+
+h4{
+    position: relative;
+    bottom: -180px;
+    font-size: 30px;
+}
+.ww{
+    position:relative;
+    bottom: -200px;
+    text-align: justify;
+}
+.app{
+    width: 50%;
+    float: left;
+    position: relative;
+    right: 220px;
+}
+.google{
+    width: 50%;
+    float: left;
+    position: relative;
+    right: 200px;
+    
+    
+    
+}
+.ag{
+    width: 100%;
+    float: left;
+    padding:20px;
+}
+.btn{
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+.btn button{
+    font-size: 40px;
+    text-align: center;
+    background-color: #c90058;
+}
+.last{
+    width: 100%;
+    float: left;
+    background-image: url(image/bgg.png);
+    background-size: cover;
+
+}
+.iteams-5{
+   width: 60%;
+   float: left;
+   margin: 50px;
+   padding: 100px;
+   text-align: center;
+}
+.on{
+    width: 20%;
+    float: left;
+}
+.tw{
+    width: 20%;
+    float: left;
+}
+.thr{
+    width: 20%;
+    float: left;
+}
+.fou{
+    width: 20%;
+    float: left;
+}
+h5{
+    line-height: 50px;
+    letter-spacing: 2px;
+    text-decoration: ;
+}
+.get{
+    width: 40%;
+    text-align: center;
+}
+.p{
+    width: 100%;
+    text-align: center;
+}
+.in{
+    text-align: center;
+}
+.suub{
+    text-align: center;
+}
+.such{
+    float:right;
+}
+.ftr{
+    width: 100%;
+    float: left;
+    background-image: url(image/bc\ footer.png);
+    background-size: cover;
+}
+.foter-writting{
+    width: 50%;
+    float: left;
+
+}
+h6{
+    padding: 30px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+}
+
+.foter-hero{
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+.foter-hero img{
+    padding: 10px;
+    margin: 12px;
+}
+
